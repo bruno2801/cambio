@@ -1,0 +1,26 @@
+body {
+    background-color: #5845c7;
+}
+h1{
+color: rgb(189, 172, 20);
+text-align: center;
+text-shadow: rgb(180, 118, 37) 2px 3px;
+font-family: 'Recursive', sans-serif;
+}
+#blue{
+    color: rgb(65, 65, 146);
+    text-shadow: black 1px 1px;
+    font-family: 'Recursive', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+#coti{
+    color: rgb(65, 65, 146);
+    text-shadow: black 1px 1px;
+    font-family: 'Recursive', sans-serif;
+    font-weight: bolder;
+    display: flex;
+    
+}
+    
